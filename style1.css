@@ -9,7 +9,6 @@ font-family: 'Lato', sans-serif;
 	width:18%;
 	text-align:center;
 	font-size:70px;
-	padding:20px 0px 25px 0px;
 }
 .nav_top{
 	background: #CBCBCB;
@@ -30,39 +29,25 @@ header nav a:first-child{
 }
 header nav a:last-child{
 	border-right:hidden;
-}
-aside ul{
-	width:15%;
-	height:720px;
-	background-color: #CBCBCB;
-	margin:0px;
-	padding:20px 24px 0px 20px;
-	float:left;
-}
-aside ul li{
-	text-align:justify;
-	list-style-type: none;
-	padding: 15px 0px 30px 0px;
-	color:black;
-	border-bottom:double #000
-}
-#def{
-	font-size:20px;
-	margin-top:40px;
-	width:18%;
-	padding:30px 0px 10px 0px;
-	background-color:#CBCBCB;
-	text-align:center;
-	
+}	
 }
 article {
+	float:left;
 	font-family: 'Domine', serif;
-	margin-left:400px;
-	margin-right:200px;
+	margin-left:auto;
+	margin-right:auto;
 	height:600px
 }
+.block{
+	font-size:30px;
+	text-align:Center;
+	height:800px;
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+}
 .fb{
-	width:222px;
+	width:273px;
 	height:100px;
 	float:left;
 	font-size:60px;
@@ -74,7 +59,7 @@ article {
 	background-color:#B6B6B6;
 }
 .yt{	
-	width:223px;
+	width:273px;
 	height:100px;
 	float:left;
 	font-size:60px;
@@ -86,7 +71,7 @@ article {
 	background-color:#B6B6B6;
 }
 .ig{
-	width:223px;
+	width:278px;
 	height:100px;
 	float:left;
 	font-size:60px;
@@ -98,7 +83,7 @@ article {
 	color:#D283FF;
 }
 .tw{
-	width:223px;
+	width:278px;
 	height:100px;
 	float:left;
 	font-size:60px;
@@ -110,7 +95,7 @@ article {
 	color:#00acee;
 }
 .gh{
-	width:223px;
+	width:278px;
 	height:100px;
 	float:left;
 	font-size:60px;
